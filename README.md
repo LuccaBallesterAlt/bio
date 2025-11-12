@@ -20,18 +20,5 @@
 - Outros projetos interessantes em Python, TypeScript, HTML, e CSS
 
 ## Contato:
-- 📧 Email: luccaballester@email.com
+- 📧 Email: luccadepinho@gmail.com
 - 🔗 LinkedIn: [Lucca Ballester](https://www.linkedin.com/in/luccaballester)
-
-## Sobre meus Projetos:
-- Diversidade em projetos criativos, mostrando minha flexibilidade
-- Personalização e análise detalhada dos dados me fascinam
-
----
-
-<div align="center">
-    <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200">
-    <br>
-    <img src="https://img.shields.io/badge/python-3.9-blue">
-     <img src="https://img.shields.io/badge/react-17.0-blue">
-</div>
